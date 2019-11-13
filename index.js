@@ -15,4 +15,4 @@ function wrapGifts(name,birthday) {
 return name;
 }
 
-wrapGifts(name,birthday);
+return wrapGifts(name,birthday);
