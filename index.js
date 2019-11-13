@@ -13,7 +13,6 @@ function wrapGifts(name,birthday) {
     console.console.log(` ${birthday[i]}`);
   }
 
-  return gifts;
 }
 
-wrapGifts(gifts);
+wrapGifts(name,birthday);
