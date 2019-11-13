@@ -12,7 +12,7 @@ function wrapGifts(name,birthday) {
     console.log(`Wrapped ${name[i]} and added a bow!`);
     console.console.log(` ${birthday[i]}`);
   }
-
+return (name,birthday);
 }
 
 wrapGifts(name,birthday);
