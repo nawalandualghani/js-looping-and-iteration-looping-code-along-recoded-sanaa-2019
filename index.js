@@ -1,3 +1,3 @@
 // Code your solutions in this file
 
-const gifts = ["Ada", "Brendan", "Ali"];
+const name = ["Ada", "Brendan", "Ali"];
